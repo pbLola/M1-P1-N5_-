@@ -78,3 +78,31 @@ nav ul li a {
   list-style: disc;
   margin-left: 2rem;
 }
+footer {
+  padding: 2rem;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+}
+footer nav ul {
+  justify-content: center;
+}
+footer nav ul li {
+  margin: 0 0.5rem;
+}
+footer nav ul li a {
+  color: #fff;
+}
+.redes-sociais {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  margin-top: 1rem;
+}
+.redes-sociais li {
+  margin: 0 0.5rem;
+}
+.redes-sociais img {
+  width: 32px;
+  height: 32px;
+}
