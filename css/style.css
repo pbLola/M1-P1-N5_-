@@ -30,3 +30,51 @@ nav ul li a {
   text-decoration: none;
   color: #333;
 }
+
+.hero {
+  text-align: center;
+  padding: 6rem 2rem 2rem;
+  background-color: #e2e2e2;
+}
+.hero img {
+  max-width: 100%;
+  height: auto;
+}
+.hero h2 {
+  margin: 1rem 0;
+  font-size: 2rem;
+}
+.hero p {
+  margin-bottom: 1rem;
+}
+.cta {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  background-color: #333;
+}
+#noticias {
+  padding: 2rem;
+  background-color: #fff;
+}
+#noticias article {
+  margin-bottom: 2rem;
+}
+#noticias img {
+  max-width: 100%;
+  height: auto;
+}
+#sobre {
+  padding: 2rem;
+  background-color: #f9f9f9;
+}
+#sobre img {
+  width: 2rem;
+  height: 200px;
+  border-radius: 50%;
+  display: block;
+  margin-bottom: 1rem;
+}
+#sobre ul {
+  list-style: disc;
+  margin-left: 2rem;
+}
